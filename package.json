@@ -1,0 +1,32 @@
+{
+  "name": "bizzcard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^2.2.9",
+    "framer-motion": "^11.0.8",
+    "next": "14.1.1",
+    "react": "^18",
+    "react-awesome-reveal": "^4.2.8",
+    "react-dom": "^18",
+    "react-feather": "^2.0.10",
+    "react-icons": "^5.0.1",
+    "react-input-color": "^4.0.1",
+    "vcard-creator": "^0.6.0",
+    "vcards-js": "^2.10.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.61",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
